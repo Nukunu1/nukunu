@@ -2,13 +2,12 @@
 
 ## About Me 🚀
 
-I'm a passionate Software/Network Engineer with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Junior Software/Network Engineer with experience in networking and programming. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **CCNA | Back-End Web Development**
+- 🔭 Working on: **N/A**
+- 🌍 Languages: **HTML, Python | Twi, Ewe and a little bit of French**
+- 📫 How to reach me: **cnkawayevu@gmail.com | +233500139457**
 
 ## My Skills 🧠
 
